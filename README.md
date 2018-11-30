@@ -22,7 +22,8 @@ rss: http://feeds.reuters.com/news/artsculture, http://feeds.reuters.com/reuters
 Create an issue with the following structure:
 
 ```
-criteria failed: List the failed criteria
+action: Update or Remove
+criteria: List the relevant criteria
 proof: Explain why it failed the criteria 
 site (this is the newsfeed you want to remove): https://badsite.com, https://badsite.com/rss
 ```
@@ -31,7 +32,8 @@ Example:
 
 
 ```
-criteria failed: (5) Does not try to mislead users, (6) Properly discloses sponsored or promoted posts
+action: Remove
+criteria: (5) Does not try to mislead users, (6) Properly discloses sponsored or promoted posts
 proof: The name of the site misleads users to think it's about baseball but it is actually used to distribute paid financial press releases, which are not properly disclosed. Example: https://www.baseballdailydigest.com/2018/11/29/einsteinium-price-reaches-0-0956-on-exchanges-emc2.html
 site: https://baseballdailydigest.com, https://www.baseballdailydigest.com/feed
 ```
