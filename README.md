@@ -1,4 +1,4 @@
-# News Outlets and RSS Feeds
+# Reputable news outlets and RSS Feeds
 
 A shared repo of news sources and their RSS feeds.
 
