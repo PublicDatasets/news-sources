@@ -4,7 +4,7 @@ site: https://reuters.com
 
 rss: http://feeds.reuters.com/news/artsculture, http://feeds.reuters.com/reuters/businessNews, http://feeds.reuters.com/reuters/companyNews
 
-**USE THIS TEMPLATE TO EDIT OR REMOVE**
+**USE THIS TEMPLATE TO UPDATE OR REMOVE**
 
 action: Update or Remove
 
