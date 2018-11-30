@@ -24,8 +24,8 @@ Create an issue with the following structure:
 ```
 action: Update or Remove
 criteria: List the relevant criteria
-proof: Explain why it failed the criteria 
-site (this is the newsfeed you want to remove): https://badsite.com, https://badsite.com/rss
+proof: Explain why it failed the criteria or require an update
+site (this is the newsfeed you want to update or remove): https://badsite.com, https://badsite.com/rss
 ```
 
 Example:
