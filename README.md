@@ -14,7 +14,7 @@ Which corresponds to DOMAIN,RSS
 
 If a news website has multiple feeds, use quotations:
 ```
-https://reuters.com,"http://feeds.reuters.com/news/artsculture, http://feeds.reuters.com/reuters/businessNews, http://feeds.reuters.com/reuters/companyNews"
+https://reuters.com,"http://feeds.reuters.com/news/artsculture,http://feeds.reuters.com/reuters/businessNews,http://feeds.reuters.com/reuters/companyNews"
 ```
 
 ## Removal process
