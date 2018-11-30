@@ -17,7 +17,7 @@ site: https://reuters.com
 rss: http://feeds.reuters.com/news/artsculture, http://feeds.reuters.com/reuters/businessNews, http://feeds.reuters.com/reuters/companyNews
 ```
 
-## Removal process
+## Update & Removal process
 
 Create an issue with the following structure:
 
